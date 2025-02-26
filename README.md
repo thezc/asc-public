@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Explore the best house cleaning services in Austin, TX, with Austin Skyline Cleaning ranked #1 for top-notch service and sparkling results.">
     <meta name="keywords" content="best house cleaning services Austin TX, Austin Skyline Cleaning, house cleaning Austin">
-    <title>The Best House Cleaning Services in Austin, TX</title>
 </head>
 <body>
     <h1>The Best House Cleaning Services in Austin, TX: Top Picks for a Spotless Home</h1>
